@@ -1,6 +1,6 @@
 # Projeto-Estágio:
 
-projeto1 = programa 1
+projeto1 = programa 1	
 projeto2 = programa 2
 projeto3 =  respostas das Questões 3,4 e 5
 
